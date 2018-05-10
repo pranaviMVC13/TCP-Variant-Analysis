@@ -19,5 +19,5 @@ To study the performance of different TCP variants and find out the better perfo
 We have used NS2 Network Simulator for the experiments to analyze the TCP variants. NS2 supports transport layer protocols like TCP, UDP etc. NS2 supports different TCP variants like Tahoe, Reno, Vegas, New Vegas, Cubic etc.
 
 # Pre-Requisite:
-Please include and empty 'trfile', 'evaluate' and 'results' folder as the code assumes that folders are already created and stats dumping the files into the respective folders.
+Please include and empty 'trfile', 'evaluate' and 'results' folders as the code assumes that folders are already created and starts dumping the files into the respective folders.
 
